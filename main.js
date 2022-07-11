@@ -1,1 +1,1 @@
-let dis =document.getElementById("show-content").value = 55;
+let dis =document.getElementById("show-content").value = "";
